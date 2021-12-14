@@ -1,2 +1,0 @@
-# StyxGamesSuperMario
-SuperMario
