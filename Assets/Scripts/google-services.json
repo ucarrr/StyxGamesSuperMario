@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012288850099",
+    "project_id": "styxgamesmario-f2ea4",
+    "storage_bucket": "styxgamesmario-f2ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012288850099:android:ec7ad3397c7b8d22cf08c6",
+        "android_client_info": {
+          "package_name": "com.google.styxGames.mario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012288850099-3ln6njoc3jpiaspd0cro59dh0idkcejn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcG8qSgn0vsL1kciyxtFEbIfxcqjCA4L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012288850099-3ln6njoc3jpiaspd0cro59dh0idkcejn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
